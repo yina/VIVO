@@ -5,7 +5,7 @@ This fork is a feature version. It contains the two primary development features
 * developing VIVO to return people only.
 * applying multiple ranking algorithms to return people.
 
-Yin Aphinyanaphongs and Lawrence Fu with the Center for Health Informatics and Bioinformatics maintains this fork.
+Yin Aphinyanaphongs and Lawrence Fu with the Center for Health Informatics and Bioinformatics at New York University maintain this fork.
 
 # VIVO: Connect, Share, Discover
 
