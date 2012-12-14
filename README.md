@@ -7,6 +7,8 @@ This fork is a feature version. It contains the two primary development features
 
 Yin Aphinyanaphongs and Lawrence Fu with the Center for Health Informatics and Bioinformatics at New York University maintain this fork.
 
+Our changes are implemented in a new theme called people.
+
 # VIVO: Connect, Share, Discover
 
 VIVO is an open source semantic web application originally developed and implemented at Cornell. 
